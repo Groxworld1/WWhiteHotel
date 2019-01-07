@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1091215269416",
+    "firebase_url": "https://whitehotel-87cf0.firebaseio.com",
+    "project_id": "whitehotel-87cf0",
+    "storage_bucket": "whitehotel-87cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091215269416:android:0aec7343327b27cb",
+        "android_client_info": {
+          "package_name": "com.example.dio.whitehotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091215269416-e88kdup7670r3gnscvh5ghj4ho0f05cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dio.whitehotel",
+            "certificate_hash": "84bb2766fdb1f6bc0ec8707a77141ca489f25558"
+          }
+        },
+        {
+          "client_id": "1091215269416-i3vb4fause971e0fprekt0e5ll0cqjim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDBeY5DcIuoh9Eu12LUraXNrstUTcGVec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091215269416-i3vb4fause971e0fprekt0e5ll0cqjim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
